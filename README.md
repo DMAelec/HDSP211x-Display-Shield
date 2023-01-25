@@ -34,4 +34,4 @@
  
  Output gerbers are Zipped up, current revision is Ver1.6 and Arduino demo code is located in the examples folder.
  
- ![HDSP Running](HDSP211x Pics/HDSP2.jpg)
+ ![HDSP Running](HDSP211x Pics/HDSP2.JPG)
